@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/signals.dir/main.cpp.o  -o signals  -L/usr/local/boost/lib -lboost_system -lboost_thread -lpthread -Wl,-rpath,/usr/local/boost/lib 

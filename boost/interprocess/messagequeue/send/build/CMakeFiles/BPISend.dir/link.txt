@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/BPISend.dir/main.cpp.o  -o BPISend  -L/usr/local/boost/lib -lrt -pthread -Wl,-rpath,/usr/local/boost/lib 

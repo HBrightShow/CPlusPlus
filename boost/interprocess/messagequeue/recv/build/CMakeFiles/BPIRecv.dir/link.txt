@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/BPIRecv.dir/main.cpp.o  -o BPIRecv  -L/usr/local/boost/lib -lrt -pthread -Wl,-rpath,/usr/local/boost/lib 

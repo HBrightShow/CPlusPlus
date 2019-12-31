@@ -1,0 +1,3 @@
+/home/uos/hml/cplusplus/boost/interprocess/mapped_region/primary/build/CMakeFiles/edit_cache.dir
+/home/uos/hml/cplusplus/boost/interprocess/mapped_region/primary/build/CMakeFiles/rebuild_cache.dir
+/home/uos/hml/cplusplus/boost/interprocess/mapped_region/primary/build/CMakeFiles/mapped.dir

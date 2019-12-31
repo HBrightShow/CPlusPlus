@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/structure.dir/main.cpp.o  -o structure  -L/usr/local/boost/lib 

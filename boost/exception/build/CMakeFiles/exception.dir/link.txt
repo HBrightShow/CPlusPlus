@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/exception.dir/main.cpp.o  -o exception  -L/usr/local/boost/lib -lboost_system -lpthread -Wl,-rpath,/usr/local/boost/lib 
